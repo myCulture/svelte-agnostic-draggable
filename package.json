@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rozek/svelte-agnostic-draggable.git"
+    "url": "git+https://github.com/myCulture/svelte-agnostic-draggable.git"
   },
   "keywords": [
     "svelte3",
@@ -28,9 +28,9 @@
   "author": "Andreas Rozek <a.rozek@gmx.de> (https://www.rozek.de/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rozek/svelte-agnostic-draggable/issues"
+    "url": "https://github.com/myCulture/svelte-agnostic-draggable/issues"
   },
-  "homepage": "https://github.com/rozek/svelte-agnostic-draggable#readme",
+  "homepage": "https://github.com/myCulture/svelte-agnostic-draggable#readme",
   "dependencies": {
     "agnostic-draggable-bug-fixed": "github:myCulture/agnostic-draggable"
   },
